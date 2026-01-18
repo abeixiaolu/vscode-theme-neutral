@@ -1,16 +1,15 @@
 <h1 align="center">Serein Theme for VS Code</h1>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-serein" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-serein.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=abei.theme-serein" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-serein.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
 <p align="center">
-<img width="1275" alt="Screenshot Light Mode" src="https://github.com/user-attachments/assets/7fa3db7a-5b11-4622-a59b-1f7b3f837d0d">
-<img width="1275" alt="Screenshot Dark Mode" src="https://github.com/user-attachments/assets/2919bb08-596b-4279-9f1e-4d2f7d1913fb">
-<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://input.djr.com/">Berkeley Mono</a><br>
-&nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons">Catppuccin</a><br>
+<img width="1275" alt="Screenshot Light Mode" src="https://github.com/user-attachments/assets/0cf410a5-b7c2-4d81-b935-f4f7a0163c0c">
+<img width="1275" alt="Screenshot Dark Mode" src="https://github.com/user-attachments/assets/c9b25add-089f-410c-8427-f9ad51dfaf0d">
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://usgraphics.com/products/berkeley-mono">Berkeley Mono</a><br>
+&nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">file-icons</a><br>
 Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo | <a href="https://github.com/antfu/serein">Serein</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
 </p>
 
 ## Match with System
@@ -32,4 +31,4 @@ This project is based on [Vitesse Theme](https://github.com/antfu/vitesse) by [A
 
 ## License
 
-MIT - Copyright (c) 2026 Abei Xiaolu
+MIT - Copyright (c) 2026 Abei
