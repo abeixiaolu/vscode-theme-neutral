@@ -4,7 +4,7 @@
   "displayName": "Serein Theme",
   "version": "0.1.2",
   "packageManager": "pnpm@10.15.0",
-  "description": "Serein theme for VS Code",
+  "description": "A soft, serene color theme with light and dark variants for a calm coding experience",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -18,7 +18,8 @@
     "serein",
     "light",
     "dark",
-    "serein"
+    "serein",
+    "soft"
   ],
   "categories": [
     "Themes"

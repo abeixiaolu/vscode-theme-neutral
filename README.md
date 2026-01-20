@@ -7,7 +7,7 @@
 <p align="center">
 <img width="1275" alt="Screenshot Light Mode" src="https://github.com/user-attachments/assets/0cf410a5-b7c2-4d81-b935-f4f7a0163c0c">
 <img width="1275" alt="Screenshot Dark Mode" src="https://github.com/user-attachments/assets/c9b25add-089f-410c-8427-f9ad51dfaf0d">
-<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://usgraphics.com/products/berkeley-mono">Berkeley Mono</a><br>
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://usgraphics.com/products/berkeley-mono">Berkeley Mono</a><br>
 &nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">file-icons</a><br>
 Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 </p>
